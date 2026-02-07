@@ -9,7 +9,10 @@ const appRoot = app.getAppPath()
 // preload 路径
 const preloadPath = path.join(appRoot, 'dist-electron', 'preload.js')
 
-// 资源路径
+// 构建产物路径（Vite 输出到 docs/）
+const docsPath = path.join(appRoot, 'docs')
+
+// 静态资源路径
 const publicPath = path.join(appRoot, 'public')
 
 // 设置文件路径
@@ -165,7 +168,7 @@ const createWindow = () => {
   })
 
   createAppMenu()
-  win.loadFile(path.join(publicPath, 'index.html'))
+  win.loadFile(path.join(docsPath, 'index.html'))
 
   // 窗口关闭事件
   win.on('close', e => {
